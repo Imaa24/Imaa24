@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imanol</h1>
 <h3 align="center">Full-Stack developer from Argentina</h3>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
 
 - 🌱 I’m currently learning **Cibersecurity**
 
